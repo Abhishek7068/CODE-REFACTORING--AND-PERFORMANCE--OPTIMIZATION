@@ -61,3 +61,5 @@ The main() function demonstrates class usage:
 This BankAccount class is an optimized, refactored, and well-structured implementation that follows OOP principles, error handling best practices, and transaction logging. It ensures security, data integrity, and ease of maintenance, making it a reliable banking system component.
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/191babd2-4949-4d1d-b7b7-23b792ae8403)
